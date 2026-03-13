@@ -1,0 +1,27 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+
+# Logs
+*.log
+
+# Python virtual environments (in case someone experiments)
+.venv/
+venv/
+env/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Documentation build folders
+site/
+docs/_build/
